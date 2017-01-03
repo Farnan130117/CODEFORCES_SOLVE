@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482060299 source:c:\users\farnan.cse\desktop\cf_386_b\main.cpp
+	<iostream>
+	<cstring>
+
